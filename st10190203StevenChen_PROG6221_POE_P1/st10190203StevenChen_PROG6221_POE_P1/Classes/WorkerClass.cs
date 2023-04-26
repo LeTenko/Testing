@@ -27,7 +27,7 @@ namespace st10190203StevenChen_PROG6221_POE_P1.Classes
                     menuClassHere.Menu_input();
                 }
 
-                //whats going on man!
+                //clears, just save sync push comit ! :D
             }
         }
     }
